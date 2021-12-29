@@ -26,9 +26,4 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [Jinker#8073](https://discord.com) on Discord made a really cool 'web' themed token.
 
-## Token Usage
-
-These work really well in the [Foundry VTT](https://foundryvtt.com)'s [Tokenizer module](https://foundryvtt.com/packages/vtta-tokenizer/).  I'm sure they would be useful in other token tools as well.
-
 Feel free to send pull requests for additional token frame content!
-
