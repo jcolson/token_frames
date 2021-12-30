@@ -14,6 +14,8 @@ The new token frames will be available at: `modules/TokenFrames/token_frames`.
 
 A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](https://github.com/mrprimate/vtta-tokenizer/).
 
+![Token Frame Screenshot](support/TokenFrame.png)
+
 ## Sourced from TokenTool
 
 [TokenTool](https://github.com/RPTools/TokenTool), which uses the ["GNU AFFERO GENERAL PUBLIC LICENSE"](https://github.com/RPTools/TokenTool/blob/main/LICENSE.md).
