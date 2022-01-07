@@ -10,7 +10,7 @@ Most of these token frames were harvested from other opensource projects.
 - Paste this url `https://github.com/jcolson/token_frames/releases/latest/download/module.json` in the **Manifest URL** field.
 - Click on the **Install Module** button.
 
-The new token frames will be available at: `modules/TokenFrames/token_frames`.
+The new token frames will be available at: `modules/token-frames/token_frames`.
 
 A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](https://github.com/mrprimate/vtta-tokenizer/).
 
