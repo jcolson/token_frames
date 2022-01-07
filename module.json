@@ -1,5 +1,5 @@
 {
-    "name": "TokenFrames",
+    "name": "token-frames",
     "title": "Token Frames",
     "description": "Token Frames FoundryVTT",
     "author": "Jay Colson",
@@ -11,12 +11,12 @@
             "discord": "blackntan#0069"
         }
     ],
-    "version": "1.0.8",
+    "version": "1.0.9",
     "minimumCoreVersion": "9.238",
     "compatibleCoreVersion": "9",
     "packs": [
         {
-            "name": "TokenFrames",
+            "name": "token-frames",
             "label": "TokenFrames",
             "path": "packs/TokenFrames.db",
             "type": "JournalEntry"
