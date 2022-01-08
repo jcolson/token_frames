@@ -32,6 +32,10 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [Pngwing](https://www.pngwing.com/en/) has many high quality images that can be used for tokens, and can be used for non-commercial use!
 
+### Sourced from pdzoch
+
+[pdzoch](https://imgur.com/user/pdzoch) created many CR level coordinated token frames for baddies that have now been included.
+
 ## Feel free to send pull requests for additional token frame content
 
 ## Other modules

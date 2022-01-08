@@ -13,3 +13,6 @@ cd ..
 cd Sourced_From_pngwing
 zip -ur ../TokenFrames.zip token_frames
 cd ..
+cd Sourced_From_pdzoch
+zip -ur ../TokenFrames.zip token_frames
+cd ..
