@@ -28,6 +28,10 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [Jinker#8073](https://discord.com) on Discord made a really cool 'web' themed token.
 
+### Sourced from /u/Benjosity
+
+[Benjosity](https://reddit.com/u/Benjosity) on Reddit made some really nice backgrounds and tokens, included them with their permission!
+
 ### Sourced from Pngwing
 
 [Pngwing](https://www.pngwing.com/en/) has many high quality images that can be used for tokens, and can be used for non-commercial use!

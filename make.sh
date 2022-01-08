@@ -10,6 +10,9 @@ cd ..
 cd Sourced_From_MTVExtreme
 zip -ur ../TokenFrames.zip token_frames
 cd ..
+cd Sourced_From_Benjosity
+zip -ur ../TokenFrames.zip token_frames
+cd ..
 cd Sourced_From_pngwing
 zip -ur ../TokenFrames.zip token_frames
 cd ..
