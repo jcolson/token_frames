@@ -28,7 +28,11 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [Jinker#8073](https://discord.com) on Discord made a really cool 'web' themed token.
 
-Feel free to send pull requests for additional token frame content!
+### Sourced from /u/Benjosity
+
+[Benjosity](https://reddit.com/u/Benjosity) on Reddit made some really nice backgrounds and tokens, included them with their permission!
+
+## Feel free to send pull requests for additional token frame content
 
 ## Other modules
 
