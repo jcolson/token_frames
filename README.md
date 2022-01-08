@@ -32,7 +32,7 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [Pngwing](https://www.pngwing.com/en/) has many high quality images that can be used for tokens, and can be used for non-commercial use!
 
-Feel free to send pull requests for additional token frame content!
+## Feel free to send pull requests for additional token frame content
 
 ## Other modules
 
