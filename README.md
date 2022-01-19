@@ -40,6 +40,10 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [pdzoch](https://imgur.com/user/pdzoch) created many CR level coordinated token frames for baddies that have now been included.
 
+### Sourced from Drehatlas#9068
+
+[Drehatlas#9068](https://discord.com) Created some token frames themself as they are working on an adventure module for TDE.  "In case someone else likes the frames, then the effort wasn't for nothing!"
+
 ## Feel free to send pull requests for additional token frame content
 
 ## Other modules
