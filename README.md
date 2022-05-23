@@ -50,10 +50,10 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 More of \[their\] content; check out the following social media links:
 
-- Twitter: https://twitter.com/Eldritch_Imp
-- Facebook: https://www.facebook.com/ImpmanArt
-- Instagram:https://www.instagram.com/?hl=en
-- Portfolio: https://t.co/vHnsPxhq7A
+- [Twitter](https://twitter.com/Eldritch_Imp)
+- [Facebook](https://www.facebook.com/ImpmanArt)
+- [Instagram](https://www.instagram.com/eldritchimp/)
+- [Portfolio](https://t.co/vHnsPxhq7A)
 
 ## Feel free to send pull requests for additional token frame content
 
