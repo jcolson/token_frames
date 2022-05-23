@@ -44,6 +44,17 @@ A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](
 
 [Drehatlas#9068](https://discord.com) Created some token frames themself as they are working on an adventure module for TDE.  "In case someone else likes the frames, then the effort wasn't for nothing!"
 
+### Sourced from EldritchImp#1049
+
+[EldritchImp#1049](https://discord.com) contributed some beautifully crafted class-based token frames!
+
+More of \[their\] content; check out the following social media links:
+
+Twitter: https://twitter.com/Eldritch_Imp
+Facebook: https://www.facebook.com/ImpmanArt
+Instagram:https://www.instagram.com/?hl=en
+Portfolio: https://t.co/vHnsPxhq7A
+
 ## Feel free to send pull requests for additional token frame content
 
 ## Other modules

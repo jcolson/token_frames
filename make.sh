@@ -22,3 +22,6 @@ cd ..
 cd Sourced_From_Drehatlas
 zip -ur ../TokenFrames.zip token_frames
 cd ..
+cd Sourced_From_EldritchImp
+zip -ur ../TokenFrames.zip token_frames
+cd ..
