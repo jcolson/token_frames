@@ -1,0 +1,7 @@
+From: [gus-uktena](https://github.com/gus-uktena)
+
+Requested that frames be added to foundry package:
+https://github.com/jcolson/token_frames/issues/8
+
+"Hello, I've just made some tokens for Band of Blades, which I would like to share with everyone. It includes a blank token so people can create their own variations. Thanks!"
+

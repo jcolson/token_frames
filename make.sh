@@ -25,6 +25,9 @@ cd ..
 cd Sourced_From_EldritchImp
 zip -ur ../TokenFrames.zip token_frames
 cd ..
+cd Sourced_From_gus-uktena
+zip -ur ../TokenFrames.zip token_frames
+cd ..
 ver=`grep \"version\" module.json`
 printf "\033[0;34mRemember that in order to make a release:\033[0m\n"
 printf "\033[0;31m - git tag this version with the module.json version (${ver})\n"

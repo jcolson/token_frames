@@ -55,7 +55,17 @@ More of \[their\] content; check out the following social media links:
 - [Instagram](https://www.instagram.com/eldritchimp/)
 - [Portfolio](https://t.co/vHnsPxhq7A)
 
+### Sourced from gus-uktena
+
+Contact Info: [gus-uktena](https://github.com/gus-uktena)
+
+[Requested that frames be added to foundry package](https://github.com/jcolson/token_frames/issues/8).
+
+"Hello, I've just made some tokens for Band of Blades, which I would like to share with everyone. It includes a blank token so people can create their own variations. Thanks!"
+
 ## Feel free to send pull requests for additional token frame content
+
+If you have your own token frames that you would like to share with the Foundry community, please open a pull request here or open an [Issue](https://github.com/jcolson/token_frames/issues) and I'll do my best to incorporate your content in the next release.
 
 ## Other modules
 
